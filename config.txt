@@ -1,0 +1,6 @@
+owner=520866071889182721
+prefix=س
+game=سplay
+stayinchannel=true
+songinstatus=true
+token=NTM1NDkzNDEwNTU1OTUzMTUy.DyI8qQ.yetcQ3ZwVsJJJSE720_wwYBJDCg
